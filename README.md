@@ -12,6 +12,7 @@ This project is built with React functional components, React hooks
 
 Souce code of this repository is from following **Traversy Media**'s
 video tutorial.
+
 <https://youtu.be/YaioUnMw0mo>
 
 ## create-react-app
