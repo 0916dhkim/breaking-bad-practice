@@ -1,6 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Breaking Bad API Tutorial
 
-## Available Scripts
+## Outline
+
+The goal of this project is to provide UI to explore
+[Breaking Bad API](https://breakingbadapi.com/).
+
+This project is built with React functional components, React hooks
+& axios.
+
+## Reference
+
+Souce code of this repository is from following **Traversy Media**'s
+video tutorial.
+<https://youtu.be/YaioUnMw0mo>
+
+## create-react-app
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
